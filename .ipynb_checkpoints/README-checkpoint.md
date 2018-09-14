@@ -6,7 +6,3 @@
   - Tendencies
   - Platforms
   - References
-- Lesson 2
-    - Conda essentials
-    - Platforms (jupyter, jupyterlab, colab)
-    - Python Crash Course
