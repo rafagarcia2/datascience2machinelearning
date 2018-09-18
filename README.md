@@ -10,3 +10,6 @@
     - Conda essentials
     - Platforms (jupyter, jupyterlab, colab)
     - Python Crash Course
+- Lesson 3
+    - Modules, Iterations, List Comprehesion
+    - String and date operations
