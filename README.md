@@ -13,3 +13,4 @@
 - Lesson 3
     - Modules, Iterations, List Comprehesion
     - String and date operations
+    - Introducting to Object-Oriented Programming (OOP)
