@@ -16,3 +16,4 @@
     - Introducting to Object-Oriented Programming (OOP)
 - Lesson 4
     - Introduction to Numpy
+    - Introduction to Pandas
