@@ -17,3 +17,5 @@
 - Lesson 4
     - Introduction to Numpy
     - Introduction to Pandas
+- Lesson 5
+    - Data Cleaning Basic
