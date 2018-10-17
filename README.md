@@ -19,3 +19,12 @@
     - Introduction to Pandas
 - Lesson 5
     - Data Cleaning Basic
+- Lesson 6
+    - Exploratory Data Analysis I
+    - Matplotlib
+    - Line, Bar and Scatter Plots
+ - Lesson 7
+    - Exploratory Data Analysis II
+    - Histogram and Box Plots 
+    - Wrapper from Pandas to Matplotlib
+
