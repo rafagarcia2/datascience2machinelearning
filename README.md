@@ -28,8 +28,15 @@
     - Histogram and Box Plots 
     - Wrapper from Pandas to Matplotlib
 - Lesson 8
+	- Exploratory Data Analysis III
 	- Case study: gender gap
 	- Aesthetics
 	- Colors, Lines width
 	- Annotations
+- Lesson 9
+	- Exploratory Data Analysis IV
+	- Case study: titanic
+	- Visualizing missing values
+	- Aggregate data using pivot table
+	- Storytelling from Seaborn
 
