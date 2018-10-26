@@ -40,3 +40,13 @@
 	- Aggregate data using pivot table
 	- Storytelling from Seaborn
 
+- Lesson 10
+	- Exploratory Data Analysis V
+	- Visualizing geographical data
+	- Working with basemap
+	- Customizing the plot
+	- Folium
+	- Maps with markers
+	- Maker clusters
+	-Heatmap
+
