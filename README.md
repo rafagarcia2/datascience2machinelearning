@@ -49,4 +49,6 @@
 	- Maps with markers
 	- Maker clusters
 	-Heatmap
-
+- Lesson 11
+	- Case Study #1 - Jonh Snow Map
+	- Case Study #2 - Open Data Natal-RN
