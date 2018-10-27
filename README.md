@@ -50,5 +50,14 @@
 	- Maker clusters
 	-Heatmap
 - Lesson 11
+	- Exploratory Data Analysis VI
 	- Case Study #1 - Jonh Snow Map
 	- Case Study #2 - Open Data Natal-RN
+- Lesson 12
+	- Exploratory Data Analysis VII
+	- Case study: IBGE	
+	- Geojson
+	- Importing files
+	- Creating maps
+	- Choropleths maps
+
