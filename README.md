@@ -60,4 +60,94 @@
 	- Importing files
 	- Creating maps
 	- Choropleths maps
+- Lesson 13
+	- Case study: NYC open data (education)
+	- Data cleaning walkthrough
+	- Combining data
+	- Groupby
+	- Merge (inner, outer, right, left)
+- Lesson 14
+	- Sampling
+		- Population and sampling
+		- Sampling error
+		- Simple random sampling (SRS)
+		- Stratified sampling
+		- Clustering sampling
+	- Variables in statistics
+		- Quantitative and qualitative variables
+		- Scale of measurements (nominal, ordinal, interval, ratio)
+- Lesson 15
+	- Frequency Distributions
+		- Sorting frequency distribution tables
+		- Percentiles and percentiles ranks
+		- Information loss
+	- Visualizing Distributions
+		- Bar, Pie, Histograms plots
+		- Skewed distributions
+		- Symmetrical Distributions
+	- Comparing Frequency Distribution
+- Lesson 16
+	- A brief history of AI
+	- Key definitions
+	- Types of Machine Learning
+	- Machine Learning Workflow
+	- Main challenges
+	- End-to-end ML project
+- Lesson 17
+	- Univariate KNN
+		- Euclidean distance for univariate
+		- Function to make predictions
+		- Error metrics
+	- Multivariate KNN
+		- Normalize columns
+		- Euclidean distance for multivariate
+	- Hyperparameter optimization
+	- Cross-Validation
+- Lesson 18
+	- Linear Regression (one variable)
+	- Cost function
+	- Gradient descent
+	- Refresher on linear algebra concepts
+	- Linear Regresion (multiple variables)
+- Lesson 19
+	- Classification
+	- Binary Classification
+	- Decision Boundary
+	- Cost Function 
+	- Multiclass Classification
+	- Regularization
+	- Hands on Scikit
+- Lesson 20
+	- Clustering Basic
+	- K-Means
+	- Case study: senators votes, nba
+- Lesson 21
+	- Introduction to Decision Tree
+	- Converting categorical variables
+	- Splitting Data
+	- Decision Trees as flows of data
+	- Entropy
+	- Information gain
+	- Applying Decision Trees
+	- Overfitting problem
+- Lesson 22
+	- Ensembles (Random Forest)
+	- Combining predictions
+	- Why Ensembling works
+	- Introduction variation with bagging and random features
+	- Reducing overfitting using Random Forest
+	- Case study: US Census, predicting bike rentals
+- Lesson 23
+	- Getting Started with Kaggle
+	- Feature Preparation, Selection and Engineering
+	- Model Selection and Tuning
+	- Creating a Kaggle Workflow
+- Lesson 24
+	- Representing neural network
+	- Nonlinear activation functions
+	- Hidden Layers
+	- Case study: build a handwritten digit classifier
+
+
+
 
